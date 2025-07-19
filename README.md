@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amal Rajesh</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://www.linkedin.com/in/amal-rajesh-51258b2a8/</h3>
 <p align="left">
 </p>
 
